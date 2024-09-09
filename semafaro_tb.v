@@ -2,7 +2,7 @@
 `include "semafaro.v"
 
 module semafaro_tb;
-
+    
     reg A, B;
     wire As, Bs;
     semafaro uut(A, B, As, Bs);
