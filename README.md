@@ -1,2 +1,5 @@
 # verilog_exercicios
-Exercicios de Verilog da aula de circuitos digitais
+Codigo de controle de um Semafaro em verilog
+
+![Texto Alternativo](https://imgur.com/wexq7Te)
+
