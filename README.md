@@ -1,4 +1,4 @@
-# Semafaro
+# Semaforo
 Codigo de controle de um Semafaro em verilog
 
 Simulação
