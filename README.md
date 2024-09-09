@@ -1,9 +1,9 @@
 # verilog_exercicios
 Codigo de controle de um Semafaro em verilog
 
-![Simulação](https://imgur.com/wexq7Te)
+<img src="https://imgur.com/wexq7Te" alt= "Simulação">
 
 
 
-![Circuito do codigo](https://imgur.com/taMQS4h)
+<img src="https://imgur.com/taMQS4h"alt="Circuito do codigo">
 
