@@ -1,2 +1,12 @@
-# verilog_exercicios
-Exercicios de Verilog da aula de circuitos digitais
+# Semaforo
+Codigo de controle de um Semaforo em verilog
+
+Simulação
+
+<img src="https://i.imgur.com/wexq7Te.png" alt= "">
+
+
+Esquematico do circuito
+
+<img src="https://i.imgur.com/taMQS4h.png" alt="">
+
