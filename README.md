@@ -1,5 +1,5 @@
 # Alarme
-Codigo de controle de um Semafaro em verilog
+Codigo de controle de um Alarme em verilog
 
 Simulação
 
