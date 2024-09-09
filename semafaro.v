@@ -5,5 +5,5 @@ module semafaro(A, B, As, Bs);
 
     assign As = A;
     assign Bs = ~A & B;
-
+    
 endmodule
