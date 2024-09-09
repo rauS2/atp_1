@@ -1,5 +1,5 @@
 # Semaforo
-Codigo de controle de um Semafaro em verilog
+Codigo de controle de um Semaforo em verilog
 
 Simulação
 
