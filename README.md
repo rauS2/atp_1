@@ -1,5 +1,5 @@
 # Amplificador
-Codigo de controle de um Semafaro em verilog
+Codigo de controle das entradas de um Amplificador em verilog
 
 Simulação
 
